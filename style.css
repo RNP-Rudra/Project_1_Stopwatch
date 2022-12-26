@@ -1,0 +1,49 @@
+body{
+    background-color: teal;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90vh;
+
+} 
+
+#main_div{
+    color:white;
+}
+
+.time1{
+    font-size: 150px;
+    font-weight: bold;
+}
+.time2{
+    font-size: 50px;
+    font-weight: bold;
+    color:rgb(251, 192, 255);
+}
+#button{
+    text-align: center;
+    margin: 40px 0px;
+    
+}
+
+.btn{
+    padding: 10px 30px;
+    margin:10px;
+    color:white;
+    font-size: 20px;
+    font-style: italic;
+    cursor:pointer;
+    border: 2px solid rgb(238, 175, 194);
+}
+
+#btn1{
+    background-color: green;
+}
+#btn2{
+    background-color: maroon;
+}
+#btn3{
+    background-color:red;
+}
+
+
